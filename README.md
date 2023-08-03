@@ -11,7 +11,9 @@
 
 ## Introduction
 
-The NTFS Journal is a feature in Windows that records changes to files and directories on an NTFS file system. Over time, the journal can grow in size and might need to be cleared to free up disk space. **JournalCleaner** is a simple utility written in PowerShell to help you clean the NTFS Journals on specific drives.
+The NTFS Journal is a feature in Windows that records changes to files and directories on an NTFS file system. 
+Over time, the journal can grow in size and might need to be cleared to free up disk space. 
+**JournalCleaner** is a simple utility written in PowerShell to help you clean the NTFS Journals on specific drives.
 
 ## Features
 
@@ -38,7 +40,8 @@ The NTFS Journal is a feature in Windows that records changes to files and direc
 
 ## Contributing
 
-I welcome any contributions from the community. If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue.
+I welcome any contributions from the community. 
+If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue.
 
 ## Disclaimer
 
