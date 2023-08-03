@@ -16,7 +16,7 @@ The NTFS Journal is a feature in Windows that records changes to files and direc
 ## Features
 
 - List all current drives available on the computer.
-- Choose a drive and clean its NTFS Journal using the `fsutil usn deletejournal` command.
+- Choose a drive and clean its NTFS Journal.
 - Provides feedback on the success or failure of the cleaning operation.
 
 ## Requirements
