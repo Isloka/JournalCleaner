@@ -55,4 +55,6 @@ $Button1.Add_Click({
     }
 })
 
+$JournalCleaner.Add_FormClosed({ [System.Environment]::Exit(0) })
+
 [void]$JournalCleaner.ShowDialog()
